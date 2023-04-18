@@ -25,7 +25,7 @@ This ` Text Editor ` is a Progressive Web application that would empower Users t
 
 The following Image Shows the Landing Page of the Text Editor:
 
-![Preview of Application](./src/images/image.png)        
+![Preview of Application](./client/src/images/image.png)        
   
 ## Installation
 
