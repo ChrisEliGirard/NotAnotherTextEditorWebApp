@@ -25,7 +25,11 @@ This ` Text Editor ` is a Progressive Web application that would empower Users t
 
 The following Image Shows the Landing Page of the Text Editor:
 
-![Preview of Application](./client/src/images/image.png)        
+![Preview of Application](./client/src/images/image.png)
+
+The following video talks in breif about progressive web apps
+
+![JustAnotherTextEditor-PWA-Explanation](https://drive.google.com/file/d/1ktJNTesSG_mMnz7eASqVTYWQ5gauvTVP/view?usp=share_link)
   
 ## Installation
 
